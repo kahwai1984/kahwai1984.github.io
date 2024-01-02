@@ -1,0 +1,9 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.redone.ewallet",
+      "sha256_cert_fingerprints":
+      ["F5:31:CD:C2:53:46:D1:D5:E2:D6:74:C9:C0:86:77:EB:D5:07:52:7C:7E:55:64:5F:39:24:2C:6A:57:09:4D:38"]
+    }
+  }]
